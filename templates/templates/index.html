@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        #container{
+		    position: absolute;
+		    padding-top: 10%;
+		    top: 0;
+		    bottom: 0;
+		    left: 0;
+		    right: 0;
+		    max-width: 900px;
+		    margin: 0 auto;
+        }
+        #title{
+            color: rgba(49,112,143,1);
+            font-family:Georgia,"Times New Roman",Times,serif;
+            font-size: 36px;
+        }
+        #textfieldStyle {
+            border:1px solid #DADADA;   
+            font-family:didot,times,helvetica,arial;
+            font-size:18px; 
+            color: #888;
+            height: 30px;
+            width:100%;
+            padding-right: 102px;
+        }
+        #textareaStyle{
+            border:1px solid #DADADA;   
+            font-size:18px; 
+            font-family:arial,didot,times,helvetica;
+            color: #888;
+            height: 200px;
+            width: 100%;
+        }
+        #labelStyle {
+            Color: rgba(49,112,143,1);
+            font-family:didot,times,helvetica,arial;
+            margin-right:10px;
+            float:left;
+            text-align:right;
+        }
+		
+		.loading{
+            width: 10%;
+            height: 5%;
+            margin: 0 auto;
+            margin-top:100px;
+        }
+        .loading span{
+            display: inline-block;
+            width: 8px;
+            height: 100%;
+            border-radius: 4px;
+            background: lightgreen;
+            -webkit-animation: load 1s ease infinite;
+        }
+        @-webkit-keyframes load{
+            0%,100%{
+                height: 40px;
+                background: lightgreen;
+            }
+            50%{
+                height: 70px;
+                margin: -15px 0;
+                background: lightblue;
+            }
+        }
+        .loading span:nth-child(2){
+            -webkit-animation-delay:0.2s;
+        }
+        .loading span:nth-child(3){
+            -webkit-animation-delay:0.4s;
+        }
+        .loading span:nth-child(4){
+            -webkit-animation-delay:0.6s;
+        }
+        .loading span:nth-child(5){
+            -webkit-animation-delay:0.8s;
+        }
+        .subContainer{
+            margin-top: 3%;
+            margin-left: 10%;
+            margin-right: 10%;
+			
+        }
+        #searchButtonStyle{
+        	position: absolute;
+        	margin-top: -34px;
+        	z-index: 5;
+            background: #5bc0de;
+            border-color: #46b8da;
+            color: #fff;
+            padding: 1px 2px 1px 2px;
+            width: 70px;
+            height: 34px;
+            cursor: pointer;
+            border: 0;
+            margin-left: 34px;
+        }
+		#finalRef{
+		word-break:break-all;
+		width:80%;
+		}
+        a{
+        	font-family:didot,times,helvetica,arial;
+        	font-size: 18px;
+        	color: #615f5f;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        a:hover{
+            color: rgba(49,112,143,1);
+            text-decoration: line-through;
+        }
+		
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <script src="/static/js/jquery/2.0.0/jquery.min.js"/>
+	<script type="text/javascript">
+   function getId(id) { 
+       return document.getElementById(id); 
+   } 
+   function validation() { 
+       getId("searchButtonStyle").style.display="none"; 
+       getId("load").style.display="block"; 
+       return true; 
+   } 
+</script>
+</head>
+<body>
+    <div id="container">
+        <h1 id="title" class="col-xs-12 text-muted" align="center">Search Filter</h1>
+        <div class="subContainer" style="text-align: right;padding-right: 102px;">
+            <form action="" method="POST" onsubmit="return validation();">
+			 {% csrf_token %}
+            <input type="text" name="question" size="100" placeholder="Question" id = "textfieldStyle" value=''>
+            <input type="submit" name="search" value="Search" id = "searchButtonStyle">
+			<div class="loading" id ="load" style="display:none;">
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+			</div>
+			
+			
+			
+			</form>
+        </div>
+        <div class="subContainer">
+		<label id = "labelStyle">For question: {{question}} </label>
+            <textarea id = "textareaStyle" placeholder="Answer">{{answer}}</textarea>
+        </div>
+        <div class="subContainer" id="finalRef" style="font-size: 18px;">
+            <label id = "labelStyle">Ref: </label>
+            <a href={{ref}}><p>{{ref}}</p></a>
+        </div>
+    </div>
+</body>
+</html>
