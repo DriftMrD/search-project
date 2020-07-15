@@ -1,0 +1,357 @@
+
+
+--------------------------------------------------------------
+START SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+The User Query is [ Who is Trump ]
+
+--------------------------------------------------------------
+	START TEST Generate Correct URL
+--------------------------------------------------------------
+
+https://www.google.com/search\?num\=30\&q\=Who+is+Trump
+
+--------------------------------------------------------------
+	END TEST Generate Correct URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Download Feature Snippt
+--------------------------------------------------------------
+
+Downloading Snippets....
+
+Here is feature snippet
+
+ Donald Trump45th U.S. PresidentDonald John Trump is the 45th and current President of the United States, in office since January 20, 2017. Before entering politics, he was a businessman and television personality. WikipediaParty: Republican PartyBorn: 14 June 1946 (age 71 years), Jamaica Hospital Medical Center, New York City, New York, United StatesHeight: 1.9 mNet worth: 3.1 billion USD (2018)Spouse: Melania Trump (m. 2005), Marla Maples (m. 1993–1999), Ivana Trump (m. 1977–1992)People also search forMichael CohenTrendingMelania TrumpSpouseBarack ObamaVladimir PutinHillary ClintonIvanka TrumpDaughter
+
+--------------------------------------------------------------
+	END TEST Download Feature Snippt
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+END SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+***********NEXT TEST************
+/var/www/project
+
+--------------------------------------------------------------
+START SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+The User Query is [ The Light Phone ]
+
+--------------------------------------------------------------
+	START TEST Generate Correct URL
+--------------------------------------------------------------
+
+https://www.google.com/search\?num\=30\&q\=The+Light+Phone
+
+--------------------------------------------------------------
+	END TEST Generate Correct URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Download Feature Snippt
+--------------------------------------------------------------
+
+Downloading Snippets....
+
+Here is feature snippet
+
+There is no Snippet for this Query
+
+--------------------------------------------------------------
+	START TEST Keyword Extract
+--------------------------------------------------------------
+
+['Light', 'Phone']
+
+--------------------------------------------------------------
+	END TEST Keyword Extract
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best URL
+--------------------------------------------------------------
+
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=The+Light+Phone >/var/www/project/Temp/temp9999/gone.tmp
+generate info success
+/var/www/project/Temp/temp9999/
+Best title:  The Light Phone - The Hustle
+Best Link https://www.google.com/url?q=https://thehustle.co/the-light-phone/&sa=U&ved=0ahUKEwi37t600PnaAhVDylMKHQmVCmkQFggiMAg&usg=AOvVaw3ztQK8gihgxhRajCINOqFV
+
+--------------------------------------------------------------
+	END TEST Generate Best URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+Downloading Best Page.... https://www.google.com/url?q=https://thehustle.co/the-light-phone/&sa=U&ved=0ahUKEwi37t600PnaAhVDylMKHQmVCmkQFggiMAg&usg=AOvVaw3ztQK8gihgxhRajCINOqFV
+Generateing paragraph
+Testing the load Paragraph
+8
+
+The Light Phone is anti-technology technology. Built to keep you connected, but only just enough. The Light Phone is perfect for anyone looking to ditch their digital crutch without disappearing completely.
+
+--------------------------------------------------------------
+	END TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+END SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+***********NEXT TEST************
+/var/www/project
+
+--------------------------------------------------------------
+START SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+The User Query is [ Junit Testing Principle ]
+
+--------------------------------------------------------------
+	START TEST Generate Correct URL
+--------------------------------------------------------------
+
+https://www.google.com/search\?num\=30\&q\=Junit+Testing+Principle
+
+--------------------------------------------------------------
+	END TEST Generate Correct URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Download Feature Snippt
+--------------------------------------------------------------
+
+Downloading Snippets....
+
+Here is feature snippet
+
+There is no Snippet for this Query
+
+--------------------------------------------------------------
+	START TEST Keyword Extract
+--------------------------------------------------------------
+
+['Junit', 'Principle', 'Testing']
+
+--------------------------------------------------------------
+	END TEST Keyword Extract
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best URL
+--------------------------------------------------------------
+
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=Junit+Testing+Principle >/var/www/project/Temp/temp9999/gone.tmp
+generate info success
+/var/www/project/Temp/temp9999/
+Best title:  Chapter 5. Testing - IronJacamar
+Best Link https://www.google.com/url?q=http://www.ironjacamar.org/doc/developerguide/1.0/en-US/html/testing.html&sa=U&ved=0ahUKEwiOh5O40PnaAhWS0VMKHalkDA0QFgg-MBA&usg=AOvVaw1lLWLJ3lf1CDEu_g5ElOFd
+
+--------------------------------------------------------------
+	END TEST Generate Best URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+Downloading Best Page.... https://www.google.com/url?q=http://www.ironjacamar.org/doc/developerguide/1.0/en-US/html/testing.html&sa=U&ved=0ahUKEwiOh5O40PnaAhWS0VMKHalkDA0QFgg-MBA&usg=AOvVaw1lLWLJ3lf1CDEu_g5ElOFd
+Generateing paragraph
+Testing the load Paragraph
+10
+
+Each test can only depend on: * The official Java Connector Architecture API (javax.resource) * Interfaces and classes in the test suite that extends/implements the official API
+
+--------------------------------------------------------------
+	END TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+END SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+***********NEXT TEST************
+/var/www/project
+
+--------------------------------------------------------------
+START SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+The User Query is [ Dr Danushka Bollegala Profile ]
+
+--------------------------------------------------------------
+	START TEST Generate Correct URL
+--------------------------------------------------------------
+
+https://www.google.com/search\?num\=30\&q\=Dr+Danushka+Bollegala+Profile
+
+--------------------------------------------------------------
+	END TEST Generate Correct URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Download Feature Snippt
+--------------------------------------------------------------
+
+Downloading Snippets....
+
+Here is feature snippet
+
+There is no Snippet for this Query
+
+--------------------------------------------------------------
+	START TEST Keyword Extract
+--------------------------------------------------------------
+
+['Danushka', 'Bollegala', 'Profile', 'Dr']
+
+--------------------------------------------------------------
+	END TEST Keyword Extract
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best URL
+--------------------------------------------------------------
+
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=Dr+Danushka+Bollegala+Profile >/var/www/project/Temp/temp9999/gone.tmp
+generate info success
+/var/www/project/Temp/temp9999/
+Best title:  Danushka Bollegala , Taiki Honma , Yutaka ... - ACM Digital Library
+Best Link https://www.google.com/url?q=https://dl.acm.org/citation.cfm?id=1367679&sa=U&ved=0ahUKEwiV0sG70PnaAhUF0FMKHb5QDi0QFgguMBI&usg=AOvVaw2DzvTFU0iHLQih1GGfAwtO
+
+--------------------------------------------------------------
+	END TEST Generate Best URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+Downloading Best Page.... https://www.google.com/url?q=https://dl.acm.org/citation.cfm?id=1367679&sa=U&ved=0ahUKEwiV0sG70PnaAhUF0FMKHb5QDi0QFgguMBI&usg=AOvVaw2DzvTFU0iHLQih1GGfAwtO
+Generateing paragraph
+Testing the load Paragraph
+1
+
+The page you were on is trying to send you to previous page.
+
+--------------------------------------------------------------
+	END TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+END SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+***********NEXT TEST************
+/var/www/project
+
+--------------------------------------------------------------
+START SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+The User Query is [ Michele Zito University Of Liverpool ]
+
+--------------------------------------------------------------
+	START TEST Generate Correct URL
+--------------------------------------------------------------
+
+https://www.google.com/search\?num\=30\&q\=Michele+Zito+University+Of+Liverpool
+
+--------------------------------------------------------------
+	END TEST Generate Correct URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Download Feature Snippt
+--------------------------------------------------------------
+
+Downloading Snippets....
+
+Here is feature snippet
+
+There is no Snippet for this Query
+
+--------------------------------------------------------------
+	START TEST Keyword Extract
+--------------------------------------------------------------
+
+['University', 'Of', 'Zito', 'Michele', 'Liverpool']
+
+--------------------------------------------------------------
+	END TEST Keyword Extract
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best URL
+--------------------------------------------------------------
+
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=Michele+Zito+University+Of+Liverpool >/var/www/project/Temp/temp9999/gone.tmp
+generate info success
+/var/www/project/Temp/temp9999/
+Best title:  Michele Zito | Facebook
+Best Link https://www.google.com/url?q=https://www.facebook.com/maazito&sa=U&ved=0ahUKEwiU36O-0PnaAhVN21MKHexlC_wQFggwMBE&usg=AOvVaw30WmAV06ypo699FyBfC4lI
+
+--------------------------------------------------------------
+	END TEST Generate Best URL
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+	START TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+Downloading Best Page.... https://www.google.com/url?q=https://www.facebook.com/maazito&sa=U&ved=0ahUKEwiU36O-0PnaAhVN21MKHexlC_wQFggwMBE&usg=AOvVaw30WmAV06ypo699FyBfC4lI
+Generateing paragraph
+Testing the load Paragraph
+7
+
+Michele Zito's profile photo, Image may contain: 1 person Michele Zito is on Facebook. To connect with Michele, sign up for Facebook today. or
+
+--------------------------------------------------------------
+	END TEST Generate Best Paragraph
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+END SOFTWARE TESTING
+--------------------------------------------------------------
+
+
+***********NEXT TEST************

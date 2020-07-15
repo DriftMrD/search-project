@@ -1,0 +1,2 @@
+#!/bin/bash
+lynx -dump $1 | grep -P "1\]" | sed "s/ //g" | cut -c 4- |rev|cut -c 2- |rev
