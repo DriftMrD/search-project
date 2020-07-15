@@ -1,0 +1,360 @@
+[30/Apr/2018 21:30:25] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 21:30:25] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 110
+[30/Apr/2018 21:30:25] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 116
+[30/Apr/2018 21:30:25] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 116
+[30/Apr/2018 21:30:25] "GET /favicon.ico HTTP/1.1" 404 85
+test if have read permission
+gone.tmp
+doing real job
+sed: -e expression #1, char 2: invalid usage of line address 0
+/var/www/project/web/testSeparate.py:89: RuntimeWarning: invalid value encountered in double_scalars
+  self.matrix[i][j] /= sum
+/var/www/project/keywordExtract.py:90: RuntimeWarning: invalid value encountered in double_scalars
+[30/Apr/2018 21:30:41] "POST / HTTP/1.1" 200 5043
+[30/Apr/2018 21:30:41] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 110
+[30/Apr/2018 21:30:41] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 116
+[30/Apr/2018 21:30:48] "POST / HTTP/1.1" 200 5556
+[30/Apr/2018 21:30:48] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 110
+[30/Apr/2018 21:30:48] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 116
+test if have read permission
+gone.tmp
+doing real job
+grep: missing )
+cat: write error: Broken pipe
+sed: -e expression #1, char 2: invalid usage of line address 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+April 30, 2018 - 21:20:05
+Django version 2.0.4, using settings 'project.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Connecting...
+Connection successful
+hello
+Modifiey: Query  j
+https://www.google.com/search\?num\=30\&q\=j
+j
+https://www.google.com/search?q=%22j%22
+Downloading Snippets....
+Type of Sinppet: <class 'str'>
+Type of URL: <class 'str'>
+49
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=j >/var/www/project/temp68/gone.tmp
+['j']
+/var/www/project/temp68/
+Best title:  Similar pages
+Best title:  Similar pages
+Best title:  Similar pages
+Best Link https://www.google.com/search?q=related:https://www.nytimes.com/2018/04/30/arts/music/j-cole-kod-billboard-chart.html&hl=
+Downloading Best Page....
+Generateing paragraph
+2
+j
+Suggestions: * Make sure that all words are spelled correctly. * Try different keywords. * Try more general keywords.
+goodbye
+['Suggestions: * Make sure that all words are spelled correctly. * Try different keywords. * Try more general keywords.', 'https://www.google.com/search?q=related:https://www.nytimes.com/2018/04/30/arts/music/j-cole-kod-billboard-chart.html&hl=']
+Answer:
+Reference
+Connecting...
+Connection successful
+Connecting...
+Connection successful
+hello
+Modifiey: Query  who is US president
+https://www.google.com/search\?num\=30\&q\=who+is+US+president
+who is US president
+https://www.google.com/search?q=%22who%20is%20US%20president%22
+Downloading Snippets....
+Type of Sinppet: <class 'str'>
+Type of URL: <class 'str'>
+49
+Downloading Google Results....
+lynx -dump https://www.google.com/search\?num\=30\&q\=who+is+US+president >/var/www/project/temp69/gone.tmp
+['president', 'US']
+/var/www/project/temp69/
+Best title:  What are some interesting facts about presidents and first ladies
+Best Link https://www.google.com/url?q=https://www.whitehousehistory.org/questions/what-are-some-interesting-facts-about-presidents-first-ladies&sa=U&ved=0ahUKEwiT7aaN-eLaAhXwYd8KHZlXBnIQFgg2MA8&usg=AOvVaw2cXWYJwlM8jrBripKWZnzc
+Downloading Best Page....
+Generateing paragraph
+21
+president
+US
+* Three presidents married while in office. John Tyler, whose wife Letitia had died a year and nine months before, wed Julia Gardiner in New York City on June 26, 1844; bachelor Grover Cleveland (the only president to be married in a White House ceremony) wed Frances Folsom, the daughter of a former law partner, on June 2, 1886; Woodrow Wilson, whose wife Ellen had died a year and four months before, married Edith Bolling Galt at the bride's Washington, D.C. home on December 18, 1915. * Theodore Roosevelt was the first president to travel outside the United States on official business. His destination was Panama and he arrived there on November 14, 1906. * Lucy Webb Hayes was the first first lady to earn a college degree; she received a degree in liberal arts from Cincinnati Wesleyan Female College in 1850. * William Howard Taft was the first president to have an official White House automobile, a White Motor Company Model M seven-passenger steam-powered touring car. * The Fourth of July is a date on which three presidents died – John Adams and Thomas Jefferson (both in 1826) and James Monroe (1831). It is also the birthday of a president: Calvin Coolidge in 1872. * Woodrow Wilson was the first president to hold a doctorate – he received a degree in political science from Johns Hopkins University in 1886. His dissertation was entitled "Congressional Government: A Study in American Politics." * The Gilbert Stuart likeness of George Washington, obtained in 1800, is the oldest remaining possession of the White House. * Franklin D. Roosevelt was the first president to fly overseas. In January 1943 he took a Boeing 314 flying boat from Miami with stops in Port of Spain, Trinidad and Belém, Brazil to Bathurst, British Gambia (now Banjul, The Gambia), where a TWA C-54 then took him to Morocco for the Casablanca Conference. * Benjamin Harrison brought the first Christmas tree inside the White House in 1889. * William Howard Taft was the only man ever to serve as president and chief justice of the United States; he is also one of two presidents buried in Arlington National Cemetery (John F. Kennedy is the other). * During the War of 1812, Dolley Madison saved the Gilbert Stuart portrait of George Washington before approaching British troops torched the White House on August 24, 1814. * Letitia Tyler (1842), Caroline Harrison (1892) and Ellen Wilson (1914) are the three first ladies who died while their husband was in office. * In 1812, Dolley Madison arranged the first nuptials held at the White House – the wedding of her widowed sister, Lucy Payne Washington, to Supreme Court Justice Thomas Todd. * Woodrow Wilson was the first president to cross the Atlantic Ocean, traveling from December 4 to December 13, 1918 aboard the U.S.S. George Washington to the Paris Peace Conference. * In 1881, a metal detecting device invented by Alexander Graham Bell was used in an attempt to locate a bullet and save President Garfield's life after an office-seeking fanatic shot him. The bed's steel springs were not removed, as Dr. Bell had ordered, and the attempt failed. * The first first lady to fly in an airplane was Eleanor Roosevelt, on April 20, 1933. Following a White House dinner with famed aviator Amelia Earhart and other guests, Mrs. Roosevelt, Ms. Earhart and some of the guests went to Hoover Field (where the Pentagon stands today), boarded a Curtis Condor twin-motor Eastern Air Transport plane and took a flight over the area between Washington D.C. and Baltimore. * On February 25, 1828, young John Adams, grandson of one president and son of President John Quincy Adams, married Mary Catherine Hellen in the White House. The event marks the only time that a President's son has been married in the mansion. * The first president to ride in an automobile was William McKinley, who took a ride in November 1899 in a Stanley Steamer driven by Stanley Motor Carriage Co. co-founder Freelan O. Stanley. The first president to use an automobile on official government business and be photographed in a car was Theodore Roosevelt, on August 22, 1902 in Hartford, Connecticut. The first president who knew how to drive was Warren G. Harding. * No alcoholic beverage was served at any function during the Rutherford B. Hayes administration (1877-81) – a prohibition earning the First Lady Lucy Webb Hayes the nickname of "Lemonade Lucy." * After applauding war hero Andrew Jackson's first inaugural address at the Capitol on March 4, 1829, a crowd of thousands descended on the White House to enjoy the reception for the "People's President" – to the accompaniment of crashing china and glassware. President Jackson escaped the crush of the crowd of merrymakers and would-be handshakers by leaving through a window. * Abigail Fillmore, a former schoolteacher, obtained congressional funds in 1850 for the first official library in the Executive Mansion. * Eight presidents have died in office: William Henry Harrison (1841, pneumonia); Zachary Taylor (1850, acute gastroenteritis); Abraham Lincoln (1865, assassination); James Garfield (1881, assassination); William McKinley (1901, assassination); Warren G. Harding (1923, apoplexy); Franklin D. Roosevelt (1945, cerebral hemorrhage); John F. Kennedy (1963, assassination). * All of the presidents from Ulysses S. Grant to Chester A. Arthur wore beards. Cleveland broke the custom, although he did wear a mustache. * Very few cut flowers were used in the White House during the James K. Polk administration (1845-49) because it was a commonly held belief at that time that flowers in close quarters gave off unhealthy vapors and absorbed valuable elements from the air. * Rutherford B. Hayes was the first president to have a telephone and a typewriter in the White House – the telephone was installed in May 1879 and the typewriter arrived in February 1880. * In 1881, President James Garfield was the first to review the inaugural parade from a specially built platform in front of the White House. In 1897 William McKinley became the first president to review the parade from a glass-enclosed stand as protection from the weather. * The White House's first web site was developed during the Clinton administration and made its debut on October 20, 1994. * Ronald Reagan was the first president to have been leader of a union – he served as president of the Screen Actors Guild during 1947-52 and 1959-60. * Only two elected vice presidents were then elected president – Martin Van Buren (1836) and George H.W. Bush (1988). * Jimmy Carter was the first president to be born in a hospital – in the Wise Sanitarium in Plains, Georgia on October 1, 1924. * Franklin D. Roosevelt was the first president whose mother was able to vote for him for president. * Calvin Coolidge was both the first president sworn into office by his father (notary public John Coolidge, August 3, 1923), and the first sworn into office by a former president (Chief Justice William H. Taft, March 4, 1925). * Woodrow Wilson was the only president to have two daughters get married in the White House–Jessie to Francis B. Sayre, Sr. on November 25, 1913, and Eleanor to Secretary of the Treasury William G. McAdoo on May 7, 1914. * James Garfield's mother Eliza was the first mother to witness her son's inauguration as president. * George W. Bush was the first president to complete a marathon, finishing the Houston Marathon with a time of 3 hours, 44 minutes and 52 seconds on January 24, 1993. * Three presidents have won Grammy Awards for Best Spoken Word Album – Bill Clinton (2005), Jimmy Carter (2007) and Barack Obama (2006, 2008).[30/Apr/2018 21:31:01] "POST / HTTP/1.1" 200 6156
+[30/Apr/2018 21:31:01] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 110
+[30/Apr/2018 21:31:01] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 116
+[30/Apr/2018 23:42:03] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:42:03] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:42:03] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:03] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+Not Found: /favicon.ico
+[30/Apr/2018 23:42:03] "GET /favicon.ico HTTP/1.1" 404 1969
+[30/Apr/2018 23:42:07] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:42:07] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:07] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:42:07] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:42:08] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:42:08] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:08] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+/var/www/project/web/testSeparate.py:89: RuntimeWarning: invalid value encountered in double_scalars
+  self.matrix[i][j] /= sum
+[30/Apr/2018 23:42:08] "POST / HTTP/1.1" 200 5556
+[30/Apr/2018 23:42:09] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:09] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:42:09] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:42:09] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:09] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:42:10] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:42:10] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:42:10] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+runServer: line 2:  8409 Terminated              python3 manage.py runserver 0.0.0.0:80
+[30/Apr/2018 23:44:19] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:44:19] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:44:19] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:44:36] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:44:36] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:44:36] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:44:37] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:44:37] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:44:38] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:44:40] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:44:41] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:44:41] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:44:45] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:44:45] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:44:45] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:47:11] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:47:12] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:47:12] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+Not Found: /favicon.ico
+[30/Apr/2018 23:47:13] "GET /favicon.ico HTTP/1.1" 404 1969
+[30/Apr/2018 23:49:40] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:49:40] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:49:40] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:49:40] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:53:05] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:53:05] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:53:05] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:54:47] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:54:47] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:54:47] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:58:04] "GET / HTTP/1.1" 200 4675
+[30/Apr/2018 23:58:04] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+[30/Apr/2018 23:58:04] "GET /static/js/jquery/2.0.0/jquery.min.js HTTP/1.1" 404 1713
+[30/Apr/2018 23:58:04] "GET /static/js/bootstrap/3.3.6/bootstrap.min.js HTTP/1.1" 404 1731
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+April 30, 2018 - 23:44:14
+Django version 2.0.4, using settings 'project.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+May 01, 2018 - 00:12:13
+Django version 2.0.4, using settings 'project.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+May 01, 2018 - 00:12:22
+Django version 2.0.4, using settings 'project.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+<!--: spam
+Content-Type: text/html
+
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> -->
+<body bgcolor="#f0f0f8"><font color="#f0f0f8" size="-5"> --> -->
+</font> </font> </font> </script> </object> </blockquote> </pre>
+</table> </table> </table> </table> </table> </font> </font> </font><body bgcolor="#f0f0f8">
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#6622aa">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>NameError</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial">Python 3.5.3: /usr/bin/python3<br>Tue May  1 00:12:22 2018</font></td></tr></table>
+    
+<p>A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.</p>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/utils/autoreload.py">/usr/local/lib/python3.5/dist-packages/django/utils/autoreload.py</a> in <strong>wrapper</strong>(*args=(), **kwargs={'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...})</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;223</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;global&nbsp;_exception<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;224</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;225</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fn(*args,&nbsp;**kwargs)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;226</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;except&nbsp;Exception:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;227</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_exception&nbsp;=&nbsp;sys.exc_info()<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>fn</strong>&nbsp;= &lt;bound method Command.inner_run of &lt;django.contr...es.management.commands.runserver.Command object&gt;&gt;, <strong>args</strong>&nbsp;= (), <strong>kwargs</strong>&nbsp;= {'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...}</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py">/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py</a> in <strong>inner_run</strong>(self=&lt;django.contrib.staticfiles.management.commands.runserver.Command object&gt;, *args=(), **options={'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...})</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;138</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;139</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;140</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;handler&nbsp;=&nbsp;self.get_handler(*args,&nbsp;**options)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;141</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;run(self.addr,&nbsp;int(self.port),&nbsp;handler,<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;142</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ipv6=self.use_ipv6,&nbsp;threading=threading,&nbsp;server_cls=self.server_cls)<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">handler <em>undefined</em>, <strong>self</strong>&nbsp;= &lt;django.contrib.staticfiles.management.commands.runserver.Command object&gt;, self.<strong>get_handler</strong>&nbsp;= &lt;bound method Command.get_handler of &lt;django.con...es.management.commands.runserver.Command object&gt;&gt;, <strong>args</strong>&nbsp;= (), <strong>options</strong>&nbsp;= {'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...}</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/contrib/staticfiles/management/commands/runserver.py">/usr/local/lib/python3.5/dist-packages/django/contrib/staticfiles/management/commands/runserver.py</a> in <strong>get_handler</strong>(self=&lt;django.contrib.staticfiles.management.commands.runserver.Command object&gt;, *args=(), **options={'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...})</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;25</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;static&nbsp;files&nbsp;should&nbsp;be&nbsp;served.&nbsp;Otherwise&nbsp;return&nbsp;the&nbsp;default&nbsp;handler.<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;26</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;&nbsp;27</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;handler&nbsp;=&nbsp;super().get_handler(*args,&nbsp;**options)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;28</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use_static_handler&nbsp;=&nbsp;options['use_static_handler']<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;29</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;insecure_serving&nbsp;=&nbsp;options['insecure_serving']<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">handler <em>undefined</em>, <em>builtin</em> <strong>super</strong>&nbsp;= &lt;class 'super'&gt;, ).get_handler <em>undefined</em>, <strong>args</strong>&nbsp;= (), <strong>options</strong>&nbsp;= {'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...}</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py">/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py</a> in <strong>get_handler</strong>(self=&lt;django.contrib.staticfiles.management.commands.runserver.Command object&gt;, *args=(), **options={'addrport': '0.0.0.0:80', 'insecure_serving': False, 'no_color': False, 'pythonpath': None, 'settings': None, 'traceback': False, 'use_ipv6': False, 'use_reloader': True, 'use_static_handler': True, 'use_threading': True, ...})</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;63</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;get_handler(self,&nbsp;*args,&nbsp;**options):<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;64</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""Return&nbsp;the&nbsp;default&nbsp;WSGI&nbsp;handler&nbsp;for&nbsp;the&nbsp;runner."""<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;&nbsp;65</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;get_internal_wsgi_application()<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;66</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;67</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;handle(self,&nbsp;*args,&nbsp;**options):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>global</em> <strong>get_internal_wsgi_application</strong>&nbsp;= &lt;function get_internal_wsgi_application&gt;</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/core/servers/basehttp.py">/usr/local/lib/python3.5/dist-packages/django/core/servers/basehttp.py</a> in <strong>get_internal_wsgi_application</strong>()</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;42</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;43</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;&nbsp;44</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;import_string(app_path)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;45</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;except&nbsp;ImportError&nbsp;as&nbsp;err:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;46</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;ImproperlyConfigured(<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>global</em> <strong>import_string</strong>&nbsp;= &lt;function import_string&gt;, <strong>app_path</strong>&nbsp;= 'project.wsgi.application'</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/local/lib/python3.5/dist-packages/django/utils/module_loading.py">/usr/local/lib/python3.5/dist-packages/django/utils/module_loading.py</a> in <strong>import_string</strong>(dotted_path='project.wsgi.application')</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;15</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;ImportError("%s&nbsp;doesn't&nbsp;look&nbsp;like&nbsp;a&nbsp;module&nbsp;path"&nbsp;%&nbsp;dotted_path)&nbsp;from&nbsp;err<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;16</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;&nbsp;17</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;module&nbsp;=&nbsp;import_module(module_path)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;18</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;19</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try:<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">module <em>undefined</em>, <em>global</em> <strong>import_module</strong>&nbsp;= &lt;function import_module&gt;, <strong>module_path</strong>&nbsp;= 'project.wsgi'</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///usr/lib/python3.5/importlib/__init__.py">/usr/lib/python3.5/importlib/__init__.py</a> in <strong>import_module</strong>(name='project.wsgi', package=None)</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;124</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;125</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;level&nbsp;+=&nbsp;1<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;126</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;_bootstrap._gcd_import(name[level:],&nbsp;package,&nbsp;level)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;127</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;128</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>global</em> <strong>_bootstrap</strong>&nbsp;= &lt;module 'importlib._bootstrap' (frozen)&gt;, _bootstrap.<strong>_gcd_import</strong>&nbsp;= &lt;function _gcd_import&gt;, <strong>name</strong>&nbsp;= 'project.wsgi', <strong>level</strong>&nbsp;= 0, <strong>package</strong>&nbsp;= None</font></small></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap>">/var/www/project/&lt;frozen importlib._bootstrap&gt;</a> in <strong>_gcd_import</strong>(name='project.wsgi', package=None, level=0)</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap>">/var/www/project/&lt;frozen importlib._bootstrap&gt;</a> in <strong>_find_and_load</strong>(name='project.wsgi', import_=&lt;function _gcd_import&gt;)</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap>">/var/www/project/&lt;frozen importlib._bootstrap&gt;</a> in <strong>_find_and_load_unlocked</strong>(name='project.wsgi', import_=&lt;function _gcd_import&gt;)</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap>">/var/www/project/&lt;frozen importlib._bootstrap&gt;</a> in <strong>_load_unlocked</strong>(spec=ModuleSpec(name='project.wsgi', loader=&lt;_frozen_...d8d0&gt;, origin='/var/www/project/project/wsgi.py'))</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap_external>">/var/www/project/&lt;frozen importlib._bootstrap_external&gt;</a> in <strong>exec_module</strong>(self=&lt;_frozen_importlib_external.SourceFileLoader object&gt;, module=&lt;module 'project.wsgi' from '/var/www/project/project/wsgi.py'&gt;)</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/<frozen importlib._bootstrap>">/var/www/project/&lt;frozen importlib._bootstrap&gt;</a> in <strong>_call_with_frames_removed</strong>(f=&lt;built-in function exec&gt;, *args=(&lt;code object &lt;module&gt; at 0x7f77fef62e40, file "/var/www/project/project/wsgi.py", line 8&gt;, {'PROJECT_DIR': '/var/www/project', '__builtins__': {'ArithmeticError': &lt;class 'ArithmeticError'&gt;, 'AssertionError': &lt;class 'AssertionError'&gt;, 'AttributeError': &lt;class 'AttributeError'&gt;, 'BaseException': &lt;class 'BaseException'&gt;, 'BlockingIOError': &lt;class 'BlockingIOError'&gt;, 'BrokenPipeError': &lt;class 'BrokenPipeError'&gt;, 'BufferError': &lt;class 'BufferError'&gt;, 'BytesWarning': &lt;class 'BytesWarning'&gt;, 'ChildProcessError': &lt;class 'ChildProcessError'&gt;, 'ConnectionAbortedError': &lt;class 'ConnectionAbortedError'&gt;, ...}, '__cached__': '/var/www/project/project/__pycache__/wsgi.cpython-35.pyc', '__doc__': '<font color="#c040c0">\n</font>WSGI config for project project.<font color="#c040c0">\n\n</font>It exposes th....djangoproject.com/en/2.0/howto/deployment/wsgi/<font color="#c040c0">\n</font>', '__file__': '/var/www/project/project/wsgi.py', '__loader__': &lt;_frozen_importlib_external.SourceFileLoader object&gt;, '__name__': 'project.wsgi', '__package__': 'project', '__spec__': ModuleSpec(name='project.wsgi', loader=&lt;_frozen_...d8d0&gt;, origin='/var/www/project/project/wsgi.py'), 'abspath': &lt;function abspath&gt;, ...}), **kwds={})</td></tr>
+<tr><td></td></tr></table>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="file:///var/www/project/project/wsgi.py">/var/www/project/project/wsgi.py</a> in <strong><module></strong>()</td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;24</small>&nbsp;cgitb.enable()<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;25</small>&nbsp;#&nbsp;application&nbsp;=&nbsp;get_wsgi_application()<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;26</small>&nbsp;application&nbsp;=&nbsp;get_wsgi_application()<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt>&nbsp;&nbsp;<small>&nbsp;&nbsp;&nbsp;27</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt>=&gt;<small>&nbsp;&nbsp;&nbsp;28</small>&nbsp;application&nbsp;=&nbsp;django.core.handlers.wsgi.WSGIHandler()<br>
+</tt></td></tr>
+<tr><td><small><font color="#909090"><strong>application</strong>&nbsp;= &lt;django.core.handlers.wsgi.WSGIHandler object&gt;, django <em>undefined</em></font></small></td></tr></table><p><strong>NameError</strong>: name 'django' is not defined
+<br><tt><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>&nbsp;</tt>args&nbsp;=
+("name 'django' is not defined",)
+<br><tt><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>&nbsp;</tt>with_traceback&nbsp;=
+&lt;built-in method with_traceback of NameError object&gt;
+
+
+<!-- The above is a description of an error in a Python program, formatted
+     for a Web browser because the 'cgitb' module was enabled.  In case you
+     are not reading this in a Web browser, here is the original traceback:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/autoreload.py", line 225, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py", line 140, in inner_run
+    handler = self.get_handler(*args, **options)
+  File "/usr/local/lib/python3.5/dist-packages/django/contrib/staticfiles/management/commands/runserver.py", line 27, in get_handler
+    handler = super().get_handler(*args, **options)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py", line 65, in get_handler
+    return get_internal_wsgi_application()
+  File "/usr/local/lib/python3.5/dist-packages/django/core/servers/basehttp.py", line 44, in get_internal_wsgi_application
+    return import_string(app_path)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "&lt;frozen importlib._bootstrap&gt;", line 986, in _gcd_import
+  File "&lt;frozen importlib._bootstrap&gt;", line 969, in _find_and_load
+  File "&lt;frozen importlib._bootstrap&gt;", line 958, in _find_and_load_unlocked
+  File "&lt;frozen importlib._bootstrap&gt;", line 673, in _load_unlocked
+  File "&lt;frozen importlib._bootstrap_external&gt;", line 673, in exec_module
+  File "&lt;frozen importlib._bootstrap&gt;", line 222, in _call_with_frames_removed
+  File "/var/www/project/project/wsgi.py", line 28, in &lt;module&gt;
+    application = django.core.handlers.wsgi.WSGIHandler()
+NameError: name 'django' is not defined
+
+-->
+
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f78077af1e0>
+runServer: line 2:  8804 Terminated              python3 manage.py runserver 0.0.0.0:80
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f6817691700 (most recent call first):
+runServer: line 2: 11755 Aborted                 python3 manage.py runserver 0.0.0.0:80
